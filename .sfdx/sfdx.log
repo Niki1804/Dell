@@ -1,0 +1,2 @@
+{"name":"sfdx","hostname":"LATITUDE","pid":6824,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\Dell\\.sfdx\\sfdx.log.0","dest":"C:\\Users\\Dell\\.sfdx\\sfdx.log.1","msg":"","time":"2022-07-31T15:05:00.399Z","v":0}
+{"name":"sfdx","hostname":"LATITUDE","pid":6824,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\Dell\\.sfdx\\sfdx.log","dest":"C:\\Users\\Dell\\.sfdx\\sfdx.log.0","msg":"","time":"2022-07-31T15:05:15.090Z","v":0}

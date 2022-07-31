@@ -1,0 +1,2 @@
+{"name":"sf","hostname":"LATITUDE","pid":3544,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2022-07-30T05:49:52.580Z","v":0}
+{"name":"sf","hostname":"LATITUDE","pid":11580,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2022-07-30T19:48:55.689Z","v":0}

@@ -1,0 +1,12 @@
+{
+  "username": "marcelinenikinikbay@gmail.com",
+  "accessToken": "80c6840c2982dcf671af42bf0481e63dbb2ead01d05afc71af20ee05b3c9262e75d608b019c39c7a13ee4dc4e17ba6712f1c57a5cf808c0bf8687c772cc2880b896cfed81b060e202b85376430745ba540cfad029fe278be16ca1868f42645b978960d8208b61b0f19b583622e1fa7b04bdc894f2bf8:eec59a409bad1354878ba5663d7d19cc",
+  "instanceUrl": "https://d8z000000u45puaq-dev-ed.my.salesforce.com",
+  "orgId": "00D8Z000000u45PUAQ",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "8af9cba35e19579348d95e61d810a2d1630af474f4a3bf860025b70194ff50614e67e7f1c8c0546586feeb5953f2e63ad73f676317e9dc24f2e60c77a79f9bfa5bb8655a631557cb7cdae5e3c066891583a27b9e89cacbaf5c812cb329:924d44ae4e72a5d4c3881ad07938ad10",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "7/30/2022, 11:35:00 AM"
+}

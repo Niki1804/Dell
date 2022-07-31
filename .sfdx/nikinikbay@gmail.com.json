@@ -1,0 +1,12 @@
+{
+  "username": "nikinikbay@gmail.com",
+  "accessToken": "91526d2a15e4ff7806fa73ec1f1804a04adf0542c2fd55a93bc0ea9e79ebd8f92d17b37e640927c63799858abf8b72fd60b6254873d048977f551b45803e1d5d5ea5685c80ff24546172c7dec2e15d1ff5f420ba7da561e5788d5fb28b32f107be2d9a7c7d4de3f3ec44dd7ed62ae58213107cc817a4:0ef845a7e4963b174d4a31a384cda88f",
+  "instanceUrl": "https://softinnovas-15d-dev-ed.my.salesforce.com",
+  "orgId": "00D8b000002AQWhEAO",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "a103d929daad4914d12270efa8ad7e0dfa9c355a745bddf9b314bc3d1f4ff88cf48ee654908f677a27e6abccd57156cb9ce7f5c9d9c7c302e359b292c95027696a7f8d2cc304cfdcad055c043b1addadcbede012f8895689731885c9e3:02064d8e469ddec9579e0f60fa9f5bb0",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "7/31/2022, 10:14:44 AM"
+}
